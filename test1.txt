@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is D651-9DCD
+
+ Directory of C:\Users\syerram\Documents\GITProject
+
+04/14/2017  03:39 PM    <DIR>          .
+04/14/2017  03:39 PM    <DIR>          ..
+04/14/2017  03:39 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  324,067,745,792 bytes free
